@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "chatbot",
+    "slug": "chatbot",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": ""
+  },
+  "name": "chatbot"
+}
